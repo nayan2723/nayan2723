@@ -49,19 +49,19 @@
 
 <div align="center">
   <a href="https://www.instagram.com/nayan_kshitij/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=E4405F&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nayan-kshitij/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
-  <a href="nayankshitij128@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  <a href="https://nayan-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PortFolio&logo=gmail&label=&color=D14836&logoColor=D14836&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="200" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?semt=ais_hybrid&w=740&q=80"  />
+<img align="right" height="200" src="https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e54d992c467d5e382ca76d556fd450c5634daa8ecb7e2f17184534c17e0e6c2ad396d1e156c0cb3f35d89f38ae42ea681e49d066ef24be3e6c898866aae335f67"  />
 
 ###
 
