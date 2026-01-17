@@ -66,14 +66,14 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:maurodesouz?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:nayan2723?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nayan2723/nayan2723/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/nayan2723/nayan2723/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
