@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋! <br><br>My name is Nayan Kshitij and I'm a Computer Science Engineer</h1>
+<h1 align="center">Hey There !!! <br><br>My name is Nayan Kshitij and I'm a Computer Science Engineer</h1>
 
 ###
 
