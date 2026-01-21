@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hey There !!! <br><br>My name is Nayan Kshitij and I'm a Computer Science Engineer</h1>
+<h1 align="center"><br>My name is Nayan Kshitij and I'm a Computer Science Engineer</h1>
 
 ###
 
@@ -14,6 +14,14 @@
 </div>
 
 ###
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;;DSA+in+C%2B%2B;Aspiring+Software+Development+Engineer;Always+Learning+and+Building"
+    alt="Typing SVG"
+  />
+</p>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
