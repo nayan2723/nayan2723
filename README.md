@@ -72,6 +72,7 @@
 <img align="right" height="200" src="https://st.perplexity.ai/estatic/0b226c450798410ac541646c86ec31afd840e5beab817a5d84fa821e7db61981ec84c3b4a3f072a7a2e1899c9fb06c6e54d992c467d5e382ca76d556fd450c5634daa8ecb7e2f17184534c17e0e6c2ad396d1e156c0cb3f35d89f38ae42ea681e49d066ef24be3e6c898866aae335f67"  />
 
 ###
+![](https://nirzak-streak-stats.vercel.app/?user=nayan2723&theme=dark&hide_border=false)<br/>
 
 <div align="center">
   <img src="https://count.getloli.com/@:nayan2723?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
