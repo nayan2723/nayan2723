@@ -78,6 +78,11 @@
   <img src="https://count.getloli.com/@:nayan2723?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan2723&theme=react-dark&hide_border=true"/>
+</p>
+
 ###
 
 <br clear="both">
@@ -88,7 +93,4 @@
 
 
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan2723&theme=react-dark&hide_border=true"/>
-</p>
+
